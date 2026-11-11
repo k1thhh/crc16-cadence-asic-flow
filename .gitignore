@@ -1,0 +1,11 @@
+*.log
+*.cmd*
+*.vcd
+*.shm/
+*.trn
+*.dsn
+.cadence/
+fv/
+cov_work/
+timingReports/
+flex*.log
